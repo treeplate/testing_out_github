@@ -1,3 +1,3 @@
 # testing_out_github
 
-Github testout, branch_2 readme
+Github testout, readme from branch_2 to branch_2_1
